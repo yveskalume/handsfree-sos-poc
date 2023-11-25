@@ -11,7 +11,7 @@ classification, to identify if the user is in a perilous situation. If a potenti
 detected, alert messages containing the user's location are sent to their designated emergency
 contacts.
 
-🚧 **Note** : _This app is currently in an experimental phase and is presented for conceptual and
+🚧 **Note** : _This project is currently in an experimental phase and is presented for conceptual and
 exploratory
 purposes. It may not function reliably in all scenarios. Users are strongly advised against relying
 on this app for critical safety needs._ 🚧
