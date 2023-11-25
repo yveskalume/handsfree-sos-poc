@@ -1,8 +1,8 @@
-# alert-app-ml-poc
+# handsfree-sos-poc
 
 ## Description
 
-This is a proof of concept for an offline alert app designed to assist individuals in danger,
+This is a proof of concept for an offline sos app designed to assist individuals in danger,
 particularly those who may have been kidnapped, in alerting their emergency contacts without the
 need to click any buttons on their phone.
 
