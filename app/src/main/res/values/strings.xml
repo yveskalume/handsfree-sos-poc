@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alertify</string>
+    <string name="default_notification_channel_id">alert-app</string>
+    <string name="default_notification_channel">defaut</string>
+    <string name="txt_alerts_are_being_sent">Alerts are being sent to your contacts. If you are not in danger, please click here to cancel</string>
+    <string name="txt_your_phone_is_being_tracked">Your phone is being tracked to alert your loved ones in case of danger. The application detects sounds such as screams, moans,...</string>
+    <string name="title_alerting">Alerts are being sent</string>
+    <string name="title_tracking">Your phone is being tracked</string>
+</resources>
